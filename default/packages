@@ -1,0 +1,7 @@
+vim mc
+build-essential pkg-config libglvnd-dev
+tilix
+dconf-cli
+git
+dos2unix
+curl
