@@ -1,0 +1,14 @@
+terminalrc:a3cec783c2c18c94cc06ecadb4c82ed3:${USER}:${USER}:0644:${HOME}/.config/xfce4/terminal/terminalrc
+16451353664.desktop:449022878c77c2801641ed126d0ca5b7:${USER}:${USER}:0644:${HOME}/.config/xfce4/panel/launcher-20/16451353664.desktop
+16451353663.desktop:6c7c9e9e3003aa9bd6a2cf1e16a35e88:${USER}:${USER}:0644:${HOME}/.config/xfce4/panel/launcher-19/16451353663.desktop
+16451353662.desktop:b4454800a03474744bf3b2bfd0cdad98:${USER}:${USER}:0644:${HOME}/.config/xfce4/panel/launcher-18/16451353662.desktop
+16451353661.desktop:7b7ccc2f6cd8248af9fd1317bc3b36e5:${USER}:${USER}:0644:${HOME}/.config/xfce4/panel/launcher-17/16451353661.desktop
+thunar.xml:0330e95d53a32d7b40f7dc9ab5a445e2:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+keyboards.xml:9bf5d6a8bac2b298bd8a88b8ea8bc778:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml
+keyboard-layout.xml:9f80efd3ead0ff26adc3b9d9db156da5:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/keyboard-layout.xml
+xfce4-keyboard-shortcuts.xml:e2f40afa23ce36d18357d79d31907ff2:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
+xfce4-appfinder.xml:3a18f7c8fcf9d533bfe298efc540a534:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-appfinder.xml
+xfce4-notifyd.xml:ca8a717ce3103c06a1787d646f3ce880:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml
+xfce4-panel.xml:9c148c928ed5c397f3123fa36c2eee6e:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+xfce4-power-manager.xml:10b3d7edb5d199ede70f8d959ebe8ff4:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml
+xfwm4.xml:6e3bbe094849919d3ccc7f7e0c0d5da4:${USER}:${USER}:0644:${HOME}/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml
